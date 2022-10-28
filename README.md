@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=200&section=header&text=Woody%20/%20Young_Hoon&fontSize=80&fontColor=ffffff)
-### 📬 Contact Me
-Email : mmj2rv9@gmail.com </br>
-Phone : 010-8985-3048
+<h3 align="center"><b>📬 Contact Me</b></h3>
+<hr/>
+<p align="center">
+Email. mmj2rv9@gmail.com </br>
+Phone. 010-8985-3048
+</p>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+<h3 align="center"><b>🛠 Tech Stack</b></h3>
+<hr/>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-rgb(255, 128, 0)?style=flat&logo=html5&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/CSS3-rgb(21, 114, 182)?style=flat&logo=CSS3&logoColor=white"/> &nbsp
@@ -16,3 +19,15 @@ Phone : 010-8985-3048
 <img src="https://img.shields.io/badge/styled-components-rgb(219,112,147)?style=flat&logo=styled-components&logoColor=white"/> &nbsp
 </p>
 
+<h3 align="center"><b>💬 Work Tools</b></h3>
+<hr/>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-rgb(24, 23, 23)?style=flat&logo=GitHub&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Slack-rgb(74, 21, 75)?style=flat&logo=Slack&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Figma-rgb(242, 78, 30)?style=flat&logo=Figma&logoColor=white"/> &nbsp
+</p>
+
+<h3 align="center"><b>🙋🏻‍♂️ Resume</b></h3>
+<p align="center">
+<a href="https://www.notion.so/0cfc208a5408458b8d25715dfe39639b"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat&logo=Notion&logoColor=white"/></a> &nbsp
+</p>
