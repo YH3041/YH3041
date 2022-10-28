@@ -3,8 +3,8 @@
 <h3 align="center"><b>📬 Contact Me</b></h3>
 <hr/>
 <p align="center">
-Email. mmj2rv9@gmail.com </br>
-Phone. 010-8985-3048
+Email. <b>mmj2rv9@gmail.com</b> </br>
+Phone. <b>010-8985-3048</b>
 </p>
 
 <h3 align="center"><b>🛠 Tech Stack</b></h3>
