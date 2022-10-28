@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=200&section=header&text=Woody%20/%20Young_Hoon&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=200&section=header&text=Woody%20/%20YoungHoon&fontSize=80&fontColor=ffffff&animation=blinking)
+
 <h3 align="center"><b>📬 Contact Me</b></h3>
 <hr/>
 <p align="center">
@@ -25,9 +26,11 @@ Phone. 010-8985-3048
 <img src="https://img.shields.io/badge/GitHub-rgb(24, 23, 23)?style=flat&logo=GitHub&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-rgb(74, 21, 75)?style=flat&logo=Slack&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Figma-rgb(242, 78, 30)?style=flat&logo=Figma&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Adobe XD-rgb(255, 97, 246)?style=flat&logo=Adobe XD&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>🙋🏻‍♂️ Resume</b></h3>
+<hr/>
 <p align="center">
 <a href="https://www.notion.so/0cfc208a5408458b8d25715dfe39639b"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat&logo=Notion&logoColor=white"/></a> &nbsp
 </p>
