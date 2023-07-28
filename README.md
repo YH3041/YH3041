@@ -29,8 +29,8 @@ Phone. <b>010-8985-3048</b>
   <img src="https://img.shields.io/badge/Adobe XD-rgb(255, 97, 246)?style=flat&logo=Adobe XD&logoColor=white"/> &nbsp
 </p>
 
-<h3 align="center"><b>🙋🏻‍♂️ Resume</b></h3>
+<!-- <h3 align="center"><b>🙋🏻‍♂️ Resume</b></h3>
 <hr/>
 <p align="center">
 <a href="https://www.notion.so/0cfc208a5408458b8d25715dfe39639b"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat&logo=Notion&logoColor=white"/></a> &nbsp
-</p>
+</p> -->
