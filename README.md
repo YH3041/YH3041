@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Woody%20/%20YoungHoon&fontSize=80&fontColor=ffffff&animation=blinking)
+<!--![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Woody%20/%20YoungHoon&fontSize=80&fontColor=ffffff&animation=blinking)
 
 <h3 align="center"><b>📬 Contact Me</b></h3>
 <hr/>
@@ -27,9 +27,22 @@ Phone. <b>010-8985-3048</b>
 <img src="https://img.shields.io/badge/Slack-rgb(74, 21, 75)?style=flat&logo=Slack&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Figma-rgb(242, 78, 30)?style=flat&logo=Figma&logoColor=white"/> &nbsp
 </p>
+-->
 
 <!-- <h3 align="center"><b>🙋🏻‍♂️ Resume</b></h3>
 <hr/>
 <p align="center">
 <a href="https://www.notion.so/7c2d02a24f5742688a90be2e18344f29?pvs=4"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat&logo=Notion&logoColor=white"/></a> &nbsp
 </p> -->
+
+## 이영훈 (Lee YoungHoon) 
+
+### *"I want a happy life”*
+
+![YoungHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YH3041&show_icons=true&hide_border=true&theme=default)
+
+**Languages and Tools**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
