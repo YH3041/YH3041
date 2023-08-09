@@ -1,4 +1,4 @@
-<!--![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Woody%20/%20YoungHoon&fontSize=80&fontColor=ffffff&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Woody%20/%20YoungHoon&fontSize=80&fontColor=ffffff&animation=blinking)
 
 <h3 align="center"><b>📬 Contact Me</b></h3>
 <hr/>
@@ -27,13 +27,12 @@ Phone. <b>010-8985-3048</b>
 <img src="https://img.shields.io/badge/Slack-rgb(74, 21, 75)?style=flat&logo=Slack&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Figma-rgb(242, 78, 30)?style=flat&logo=Figma&logoColor=white"/> &nbsp
 </p>
--->
 
 <!-- <h3 align="center"><b>🙋🏻‍♂️ Resume</b></h3>
 <hr/>
 <p align="center">
 <a href="https://www.notion.so/7c2d02a24f5742688a90be2e18344f29?pvs=4"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat&logo=Notion&logoColor=white"/></a> &nbsp
-</p> -->
+</p>
 
 ## 이영훈 (Lee YoungHoon) 
 
