@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Woody%20/%20YoungHoon&fontSize=80&fontColor=ffffff&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=76819C&height=180&section=header&text=Young%20Hoon&fontSize=80&fontColor=ffffff&animation=blinking)
 
 <h3 align="center"><b>📬 Contact Me</b></h3>
 <hr/>
